@@ -37,9 +37,9 @@ require 'encrypted_strings'
 #
 # Find your app at https://developer.spotify.com/my-applications/#!/applications
 
-CLIENT_ID = "e6695c6d22214e0f832006889566df9c" # TODO: Get it from Spotify
-CLIENT_SECRET = "29eb02041ba646179a1189dccac112c7" # TODO: Get it from Spotify
-CLIENT_CALLBACK_URL = "spotifyiossdkexample://" # TODO: Get it from Spotify
+CLIENT_ID = "71d18cb9b32c480d951eed41512df8fc" # TODO: Get it from Spotify
+CLIENT_SECRET = "d7fab3e169b542d891bc2365b1412e2e" # TODO: Get it from Spotify
+CLIENT_CALLBACK_URL = "partymusic://callback" # TODO: Get it from Spotify
 
 # I don't think the secret should be changed...
 ENCRYPTION_SECRET = "cFJLyifeUJUBFWdHzVbykfDmPHtLKLGzViHW9aHGmyTLD8hGXC"
